@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raisul Islam Niloy</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Portfolio Site](https://raisenil.github.io/)
+- 🔭 I’m currently working on Food Orderding Site
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScrip & PHP**
 
 - 📫 How to reach me **raisulislamniloy47@gmail.com**
 
