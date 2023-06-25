@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 ---
-- 🔭 I’m currently working on [Food Ordering System](https://raisenil.github.io/Food_Ordering_Website/)
+- 🔭 I’m currently working on **[Food Ordering System](https://raisenil.github.io/Food_Ordering_Website/)**
 
 - 🌱 I’m currently learning **JavaScrip & PHP**
 
 - 📫 How to reach me **raisulislamniloy47@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://flowcv.com/resume/hj80ce99sc)
+- 📄 Know about my experiences **[Resume](https://flowcv.com/resume/hj80ce99sc)**
 
 ---
 <h3 align="left">Connect with me:</h3>
