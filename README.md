@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 ---
-- 🔭 I’m currently working on **[Food Ordering System](https://raisenil.github.io/Food_Ordering_Website/Food_Ordering_Website_Font-End)**
+- 🔭 I’m currently working on **[Inventory Management System]()**
 
-- 🌱 I’m currently learning **JavaScrip & PHP**
+- 🌱 I’m currently learning **PHP & Laravel**
 
 - 📫 How to reach me **raisulislamniloy47@gmail.com**
 
