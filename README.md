@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 ---
-- 🔭 I’m currently working on **Inventory Management System**
+- 🔭 I’m currently working on **[Ecommerce Project](https://github.com/Raisenil/Laravel_Ecommerce_Project.git)**
 
 - 🌱 I’m currently learning **PHP & Laravel**
 
