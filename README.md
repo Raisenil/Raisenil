@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **raisulislamniloy47@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://github.com/Raisenil/Raisenil.github.io/blob/main/Resume/Raisul%20Islam%20Niloy_Software-Engineer.pdf)**
+- 📄 Know about my experiences **[Resume]([https://github.com/Raisenil/Raisenil.github.io/blob/main/Resume/Raisul%20Islam%20Niloy_Software-Engineer.pdf](https://drive.google.com/file/d/1ZrGzDETAntZR1nvd4ChnDimT-sMaMSwG/view?usp=sharing))**
 
 ---
 <h3 align="left">Connect with me:</h3>
