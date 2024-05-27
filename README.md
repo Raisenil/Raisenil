@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raisul Islam Niloy</h1>
-<h3 align="center">Hi there! I'm a programmer with a background in Computer Science and Engineering, specializing in Software Engineering. I'm currently diving into the world of Web Development technologies. I enjoy tackling complex problems and strive to write clean, efficient code. My interests span both front-end and back-end development, and I'm always on the lookout for new learning opportunities and best practices. Let's collaborate and build something great!</h3>
+<h3 align="left">A programmer with a background in Computer Science and Engineering, specializing in Software Engineering. I'm currently diving into the world of Web Development technologies. I enjoy tackling complex problems and strive to write clean, efficient code. My interests span both front-end and back-end development, and I'm always on the lookout for new learning opportunities and best practices. Let's collaborate and build something great!</h3>
 
 ---
 - 🔭 I’m currently working on **[Ecommerce Project](https://github.com/Raisenil/Laravel_Ecommerce_Project.git)**
